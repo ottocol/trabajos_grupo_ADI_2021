@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#main-content h2 {
+	font-size: 30px;
+}
+
+#main-content h3 {
+	margin-top: 0px;
+	color: #888888;
+}
+
+header h1 {
+	width: 100%;
+	font-size: 60px;
+}
+
+aside#sidebar {
+	font-weight: 300;
+	color: dimgray;
+	font-size: 18px;
+}
+

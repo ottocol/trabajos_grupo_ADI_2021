@@ -1,3 +1,5 @@
+> IMPORTANTE: los puntos que aparecen al lado del título son los asingnados por vuestros compañeros, no la evaluación del profesor. Las votaciones son provisionales a fecha 3 de febrero.
+
 ## La arquitectura Elm
 ### Brais Valencia García, Brian Mathias Pesci Juliani
 
@@ -18,7 +20,7 @@
 - [documentación en pdf](angular_vs_vue/trabajoTeoríaADI.pdf)
 - [repo con el código de ejemplo](https://github.com/felemiso10/appAngularADI)
 
-## React Native
+## React Native (4 votos)
 ### Sandra Carreras Masanet, Edgar Martínez Serrano, Gerard Soley López
 
 - [video demo](https://drive.google.com/file/d/1BBEKtgDwlzNSivzOtq9Kk76FdsS0qAFI/view?usp=sharing)
@@ -48,36 +50,36 @@
 - [documentación en pdf](angular_rodriguez/manual.pdf)
 - [código de ejemplo](https://github.com/gelio98/EjemploAngularADI2020)
 
-## Herramientas útiles para el desarrollo web
+## Herramientas útiles para el desarrollo web (6 votos)
 ### Francisco Javier Rico Pérez, José Soler Martínez, Paula Guadalajara Saiz
 
 - [video](https://youtu.be/2L8sKowhpzU)
 
-## Desarrollo de aplicaciones web en el cliente con Angular
+## Desarrollo de aplicaciones web en el cliente con Angular (2 votos)
 ### Miguel Ángel García Picó, Rafael Serrano Aracil, Jose Francisco Vera Girona
 
 - [video](https://youtu.be/yYcF6SfeIxk)
 - [memoria en pdf](angular_garcia/memoria.pdf)
 - [código de ejemplo](https://github.com/serranorafa/adi-angular-app)
 
-## Notificaciones *push* en PWA
+## Notificaciones *push* en PWA (2 votos)
 ### Francisco García Mora
 
 - [video demo usando Firebase Cloud Messaging](https://www.youtube.com/watch?v=_6L58ImsVCU)
 - [memoria en pdf](push/push.pdf)
 
-## Arquitectura de microservicios
+## Arquitectura de microservicios (2 votos)
 ### Raúl García Carrión, Víctor Navarro Martínez-reina
 
 - [memoria en pdf](microservicios/Microservicios.pdf)
 
-## Firebase
+## Firebase (4 votos)
 ### Carlos Mariano Ferrús Ferri, Miguel Fernández Carratalá, José Francisco Mas Lledó
 
 - [presentación](https://charlitosf.github.io/ADI-Firebase)
 - [video demo](https://drive.google.com/file/d/1sra0WLvqsKLxiCU3ZPbZaY-rWDUJaivm/view)
 
-## Tutorial de Angular
+## Tutorial de Angular (2 votos)
 ### Bo Chen, Sergio Casanova Hernández, Pablo Carrillo Sánchez
 
 - [video](https://www.youtube.com/watch?v=EUBK1KYf7P4&feature=youtu.be&ab_channel=PabloCarrilloS%C3%A1nchez)
@@ -88,14 +90,14 @@
 
 - [documentación de una app de ejemplo](reactjs/ReactJS-51795077C.pdf)
 
-## Angular: guía básica de uso
+## Angular: guía básica de uso (2 votos)
 ### Tudor Emanuel Sabau, Javier Añón Gutiérrez, Daniel Ionut Dobre
 
 - [video](https://drive.google.com/file/d/1uD60qjV2YEFvk-3FgXLtUVf3-zgSYta3/view)
 - [documentación en pdf](https://drive.google.com/file/d/1T6Yo-GG2s9gcoevUGXCRQWjVhZY0RnIp/view?usp=sharing)
 - [código de ejemplo](https://drive.google.com/drive/folders/1wApw4yk8Gn46zOROK0NPEOy8gJ-4NUaI?usp=sharing)
 
-## ReactJS
+## ReactJS (4 votos)
 ### Vanesa Lara, Stalyn Alejandro
 
 - [video demo](https://drive.google.com/file/d/1SzVjguBcnrtBeNNRXSUTcblgKYy3at3O/view?usp=sharing)

@@ -1,11 +1,21 @@
-> IMPORTANTE: los puntos que aparecen al lado del título son los asingnados por vuestros compañeros, no la evaluación del profesor. Las votaciones son provisionales a fecha 8 de febrero.
+> IMPORTANTE: los puntos que aparecen al lado del título son los asingnados por vuestros compañeros, no la evaluación del profesor. Las votaciones son las definitivas. Las notas se publicarán mañana (17/02) en moodle
 
-## La arquitectura Elm (8 votos)
+Finalmente, los trabajos más valorados por todos vosotros han sido:
+
+- [**ReactJS**](#votos_1a) _Vanesa Lara, Stalyn Alejandro_ (16 votos)
+- [**Desarrollo de aplicaciones web en el cliente con Angular**](#votos_1b) _Miguel Ángel García Picó, Rafael Serrano Aracil, Jose Francisco Vera Girona_ (16 votos)
+-  [**React Native**](#votos_2b), _Sandra Carreras Masanet, Edgar Martínez Serrano, Gerard Soley López_ (11 votos)
+-  [**Herramientas útiles para el desarrollo web**](#votos_2a) _Francisco Javier Rico Pérez, José Soler Martínez, Paula Guadalajara Saiz_ (11 votos)
+
+ 
+
+
+## La arquitectura Elm (10 votos)
 ### Brais Valencia García, Brian Mathias Pesci Juliani
 
 - [Documentación con ejemplos](https://adielmgrupal2021.me/)
 
-## Tutorial de Angular (6 votos)
+## Tutorial de Angular (8 votos)
 ### Gabriel de Lamo, Daniel Apóstol, Rubén Muñoz
 
 - [Video](https://youtu.be/_Ee1iXiokHQ)
@@ -13,14 +23,14 @@
 - [código ejemplo](angular_lamo/codigo/)
 - [código ejemplo en .zip](angular_lamo/codigo.zip)
 
-## Angular vs Vue (4 votos)
+## Angular vs Vue (7 votos)
 ### Rafael Misó García
 
 - [Video: app to-do](https://youtu.be/CvNafMKZuLQ)
 - [documentación en pdf](angular_vs_vue/trabajoTeoríaADI.pdf)
 - [repo con el código de ejemplo](https://github.com/felemiso10/appAngularADI)
 
-## React Native (9 votos)
+## React Native (11 votos) <a name="votos_2b"></a>
 ### Sandra Carreras Masanet, Edgar Martínez Serrano, Gerard Soley López
 
 - [video demo](https://drive.google.com/file/d/1BBEKtgDwlzNSivzOtq9Kk76FdsS0qAFI/view?usp=sharing)
@@ -37,43 +47,43 @@
 - [código de ejemplo en .zip](angular_martinez/adiAngular.zip)
 
 
-## Tutorial de Angular (2 votos)
+## Tutorial de Angular (6 votos)
 ### Antero Guarinos Caballero, Gema Lozano Jiménez, Álvaro Prieto Martín-Buitrago
 
 - [video](angular_guarinos/Tutorial_Angular.mp4)
 - [documentación en pdf](angular_guarinos/Tutorial_Angular.pdf)
 
-## Manual del usuario para utilizar Angular (2 votos)
+## Manual del usuario para utilizar Angular (4 votos)
 ### David Rodríguez Fernández, Jorge Manuel Ros Tobal, Jose Antonio Juan Prado
 
 - [video demo](https://youtu.be/gW-9VOAZssw)
 - [documentación en pdf](angular_rodriguez/manual.pdf)
 - [código de ejemplo](https://github.com/gelio98/EjemploAngularADI2020)
 
-## Herramientas útiles para el desarrollo web (8 votos)
+## Herramientas útiles para el desarrollo web (11 votos) <a name="votos_2a"></a>
 ### Francisco Javier Rico Pérez, José Soler Martínez, Paula Guadalajara Saiz
 
 - [video](https://youtu.be/2L8sKowhpzU)
 
-## Desarrollo de aplicaciones web en el cliente con Angular (12 votos)
+## Desarrollo de aplicaciones web en el cliente con Angular (16 votos) <a name="votos_1b"></a>
 ### Miguel Ángel García Picó, Rafael Serrano Aracil, Jose Francisco Vera Girona
 
 - [video](https://youtu.be/yYcF6SfeIxk)
 - [memoria en pdf](angular_garcia/memoria.pdf)
 - [código de ejemplo](https://github.com/serranorafa/adi-angular-app)
 
-## Notificaciones *push* en PWA (4 votos)
+## Notificaciones *push* en PWA (7 votos)
 ### Francisco García Mora
 
 - [video demo usando Firebase Cloud Messaging](https://www.youtube.com/watch?v=_6L58ImsVCU)
 - [memoria en pdf](push/push.pdf)
 
-## Arquitectura de microservicios (3 votos)
+## Arquitectura de microservicios (5 votos)
 ### Raúl García Carrión, Víctor Navarro Martínez-reina
 
 - [memoria en pdf](microservicios/Microservicios.pdf)
 
-## Firebase (7 votos)
+## Firebase (9 votos)
 ### Carlos Mariano Ferrús Ferri, Miguel Fernández Carratalá, José Francisco Mas Lledó
 
 - [presentación](https://charlitosf.github.io/ADI-Firebase)
@@ -97,7 +107,7 @@
 - [documentación en pdf](https://drive.google.com/file/d/1T6Yo-GG2s9gcoevUGXCRQWjVhZY0RnIp/view?usp=sharing)
 - [código de ejemplo](https://drive.google.com/drive/folders/1wApw4yk8Gn46zOROK0NPEOy8gJ-4NUaI?usp=sharing)
 
-## ReactJS (14 votos)
+##  ReactJS (16 votos) <a name="votos_1a"></a>
 ### Vanesa Lara, Stalyn Alejandro
 
 - [video demo](https://drive.google.com/file/d/1SzVjguBcnrtBeNNRXSUTcblgKYy3at3O/view?usp=sharing)
